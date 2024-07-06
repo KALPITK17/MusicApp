@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "627501664166",
+    "project_id": "musicstreamapp-ee596",
+    "storage_bucket": "musicstreamapp-ee596.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627501664166:android:05339fd50a665c8a27f167",
+        "android_client_info": {
+          "package_name": "eu.tutorials.musicstreamapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfcKlWP7JG-cbeQ8o2ozM3DBUh-TzkUiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
